@@ -1,1 +1,1 @@
-This is my 12th Standard Project done in School for ComputerScience Subject
+This is my 12th Standard project completed for the Computer Science subject in school.
